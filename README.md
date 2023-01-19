@@ -1,10 +1,5 @@
 # 🖖 there, I'm a frontend developer 👩‍ from 🇨🇴 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<a href="https://www.linkedin.com/in/liliana-pinzon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilainita@gmail.com)](mailto:lilainita@gmail.com)
-
 
 # :woman_technologist: Knowledges 
 
@@ -27,6 +22,12 @@
 
 ## Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<a href="https://www.linkedin.com/in/liliana-pinzon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilainita@gmail.com)](mailto:lilainita@gmail.com)
 
 ⭐️ From [LilyAnn](https://github.com/lilainita)
 
