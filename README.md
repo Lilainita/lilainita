@@ -1,10 +1,11 @@
-# 🖖 there, I'm a frontend developer from 🇨🇴
+# 🖖 there, I'm a frontend developer 👩‍ from 🇨🇴 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilainita@gmail.com)](mailto:lilainita@gmail.com)
 <a href="https://www.linkedin.com/in/liliana-pinzon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5731146377**&text=Hola!)](https://api.whatsapp.com/send?phone=5731146377**&text=HiThere!)
 
-# :woman_technologist: Knowledges
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+# :woman_technologist: Knowledges 
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
