@@ -1,7 +1,7 @@
 # 🖖 there, I'm a frontend developer from 🇨🇴
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilainita@gmail.com)](mailto:lilainita@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=57311463775&text=Hola!)](https://api.whatsapp.com/send?phone=57311463775&text=HiThere!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5731146377**&text=Hola!)](https://api.whatsapp.com/send?phone=5731146377**&text=HiThere!)
 
 # :woman_technologist: Knowledges
 
