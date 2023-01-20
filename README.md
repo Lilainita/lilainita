@@ -27,19 +27,19 @@
 
 <br />
 
----
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+---
 <a href="https://www.linkedin.com/in/liliana-pinzon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilainita@gmail.com)](mailto:lilainita@gmail.com)
 
-⭐️ From [LilyAnn](https://github.com/lilainita)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Lilainita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lilainita&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
 </details>
+
+⭐️ From [LilyAnn](https://github.com/lilainita)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
