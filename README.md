@@ -1,8 +1,10 @@
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> Hello!, 
+### Hello there!, I'm Liliana 👋
 # I'm a frontend developer 👩‍ from Colombia
 
-#
+<br />
+<br />
 
+---
 # :woman_technologist: Knowledges 
 
 ## Frontend
@@ -25,7 +27,10 @@
 ## Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+<br />
+<br />
 
+---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/liliana-pinzon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
