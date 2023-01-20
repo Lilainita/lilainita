@@ -1,10 +1,8 @@
 ### Hello there!, I'm Liliana 👋
 # I'm a frontend developer 👩‍ from Colombia
-
 <br />
 <br />
 
----
 # :woman_technologist: Knowledges 
 
 ## Frontend
@@ -28,7 +26,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 <br />
-<br />
 
 ---
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
@@ -37,5 +34,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lilainita@gmail.com)](mailto:lilainita@gmail.com)
 
 ⭐️ From [LilyAnn](https://github.com/lilainita)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Lilainita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lilainita&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
