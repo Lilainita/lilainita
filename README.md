@@ -1,5 +1,5 @@
-### Hello there!, I'm Liliana 👋
-# I'm a frontend developer 👩‍ from Colombia
+## Hello there! 👋 I'm Liliana 👩‍ 
+# I'm a frontend developer from Colombia
 <br />
 
 # :woman_technologist: Knowledges 
